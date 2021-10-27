@@ -1,0 +1,21 @@
+/* TEAM */
+
+Jack Jona
+https://jackjona.com
+@jackjona123
+From: Canada
+
+/* SITE */
+
+Software:
+
+This project was built with:
+
+    - React
+    - React Context API
+    - React Router 
+    - React Player 
+    - React Toastify 
+    - Emoji Mart
+    - Material-Ui 
+    - Firebase
